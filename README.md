@@ -1,4 +1,5 @@
 # Image Generation MCP Server
+[![smithery badge](https://smithery.ai/badge/@mikeyny/ai-image-gen-mcp)](https://smithery.ai/server/@mikeyny/ai-image-gen-mcp)
 
 An [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) server implementation for generating images using Replicate's [`black-forest-labs/flux-schnell`](https://replicate.com/black-forest-labs/flux-schnell) model.
 
@@ -20,6 +21,15 @@ Ideally to be used with Cursor's MCP feature, but can be used with any MCP clien
 
 ## Setup
 
+### Installing via Smithery
+
+To install Image Generation Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@mikeyny/ai-image-gen-mcp):
+
+```bash
+npx -y @smithery/cli install @mikeyny/ai-image-gen-mcp --client claude
+```
+
+### Installing Manually
 1. Clone the repository
 2. Install dependencies:
    ```bash
