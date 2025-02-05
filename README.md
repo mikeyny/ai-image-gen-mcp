@@ -4,6 +4,8 @@ An [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) server imple
 
 Ideally to be used with Cursor's MCP feature, but can be used with any MCP client.
 
+<a href="https://glama.ai/mcp/servers/5dft5chv70"><img width="380" height="200" src="https://glama.ai/mcp/servers/5dft5chv70/badge" alt="Image Generation Server MCP server" /></a>
+
 ## Features
 
 - Generate images from text prompts
