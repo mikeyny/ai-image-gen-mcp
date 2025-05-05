@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mikeyny-ai-image-gen-mcp-badge.png)](https://mseep.ai/app/mikeyny-ai-image-gen-mcp)
+
 # Image Generation MCP Server
 
 An [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) server implementation for generating images using Replicate's [`black-forest-labs/flux-schnell`](https://replicate.com/black-forest-labs/flux-schnell) model.
